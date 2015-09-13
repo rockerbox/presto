@@ -20,3 +20,5 @@ benchmark_outputs
 *.pyc
 *.class
 .checkstyle
+*.gz
+*.tar
